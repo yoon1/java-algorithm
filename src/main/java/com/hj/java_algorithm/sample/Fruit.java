@@ -1,4 +1,4 @@
-package com.hj.java_algorithm;
+package com.hj.java_algorithm.sample;
 
 public class Fruit {
      private String name;

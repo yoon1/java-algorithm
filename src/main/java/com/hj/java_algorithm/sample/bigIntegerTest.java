@@ -1,4 +1,4 @@
-package com.hj.java_algorithm;
+package com.hj.java_algorithm.sample;
 
 import java.math.BigInteger;
 

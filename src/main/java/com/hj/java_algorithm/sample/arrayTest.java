@@ -1,4 +1,4 @@
-package com.hj.java_algorithm;
+package com.hj.java_algorithm.sample;
 
 public class arrayTest {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package com.hj.java_algorithm;
+package com.hj.java_algorithm.sample;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
